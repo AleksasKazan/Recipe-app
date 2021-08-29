@@ -1,9 +1,17 @@
 ﻿<Properties StartupConfiguration="{89A2D877-DD3B-4D17-90AA-A70A420DA619}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecipeApp/Startup.cs">
+    <Files>
+      <File FileName="RecipeApp/Program.cs" Line="1" Column="1" />
+      <File FileName="RecipeApp/Startup.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RecipeApp" expanded="True" />
+          <Node name="RecipeApp" expanded="True">
+            <Node name="RecipeApp" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
